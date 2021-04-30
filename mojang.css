@@ -1,6 +1,7 @@
 /**
 * Form https://github.com/Mojang/web-theme-bootstrap
 * Synthesis https://github.com/3JoB/Bugjump-CSS
+* Verion 6.2.10 Fix
 **/
 @charset "UTF-8";
 @keyframes flicker-opacity {
@@ -9289,9 +9290,9 @@ a.text-senary:hover, a.text-senary:focus {
 
 @font-face {
   font-family: "Noto Sans";
-  src: url(/fonts/NotoSans-Regular.eot);
+  src: url(./assets/fonts/NotoSans-Regular.eot);
   /* IE9 Compat Modes */
-  src: local("Noto Sans"), local("NotoSans"), url(/fonts/NotoSans-Regular.eot?#iefix) format("embedded-opentype"), url(/fonts/NotoSans-Regular.woff2) format("woff2"), url(/fonts/NotoSans-Regular.woff) format("woff"), url(/fonts/NotoSans-Regular.ttf) format("truetype"), url(/fonts/NotoSans-Regular.svg#NotoSans-Regular) format("svg");
+  src: local("Noto Sans"), local("NotoSans"), url(./assets/fonts/NotoSans-Regular.eot?#iefix) format("embedded-opentype"), url(./assets/fonts/NotoSans-Regular.woff2) format("woff2"), url(./assets/fonts/NotoSans-Regular.woff) format("woff"), url(./assets/fonts/NotoSans-Regular.ttf) format("truetype"), url(./assets/fonts/NotoSans-Regular.svg#NotoSans-Regular) format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: normal;
@@ -9299,9 +9300,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "Noto Sans";
-  src: url(/fonts/NotoSans-Bold.eot);
+  src: url(./assets/fonts/NotoSans-Bold.eot);
   /* IE9 Compat Modes */
-  src: local("Noto Sans Bold"), local("NotoSans-Bold"), url(/fonts/NotoSans-Bold.eot?#iefix) format("embedded-opentype"), url(/fonts/NotoSans-Bold.woff2) format("woff2"), url(/fonts/NotoSans-Bold.woff) format("woff"), url(/fonts/NotoSans-Bold.ttf) format("truetype"), url(/fonts/NotoSans-Bold.svg#NotoSans-Bold) format("svg");
+  src: local("Noto Sans Bold"), local("NotoSans-Bold"), url(./assets/fonts/NotoSans-Bold.eot?#iefix) format("embedded-opentype"), url(./assets/fonts/NotoSans-Bold.woff2) format("woff2"), url(./assets/fonts/NotoSans-Bold.woff) format("woff"), url(./assets/fonts/NotoSans-Bold.ttf) format("truetype"), url(./assets/fonts/NotoSans-Bold.svg#NotoSans-Bold) format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: bold;
@@ -9309,9 +9310,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "Noto Sans";
-  src: url(/fonts/NotoSans-Italic.eot);
+  src: url(./assets/fonts/NotoSans-Italic.eot);
   /* IE9 Compat Modes */
-  src: local("Noto Sans Italic"), local("NotoSans-Italic"), url(/fonts/NotoSans-Italic.eot?#iefix) format("embedded-opentype"), url(/fonts/NotoSans-Italic.woff2) format("woff2"), url(/fonts/NotoSans-Italic.woff) format("woff"), url(/fonts/NotoSans-Italic.ttf) format("truetype"), url(/fonts/NotoSans-Italic.svg#NotoSans-Italic) format("svg");
+  src: local("Noto Sans Italic"), local("NotoSans-Italic"), url(./assets/fonts/NotoSans-Italic.eot?#iefix) format("embedded-opentype"), url(./assets/fonts/NotoSans-Italic.woff2) format("woff2"), url(./assets/fonts/NotoSans-Italic.woff) format("woff"), url(./assets/fonts/NotoSans-Italic.ttf) format("truetype"), url(./assets/fonts/NotoSans-Italic.svg#NotoSans-Italic) format("svg");
   /* Legacy iOS */
   font-style: italic;
   font-weight: normal;
@@ -9319,9 +9320,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "Noto Sans";
-  src: url(/fonts/NotoSans-BoldItalic.eot);
+  src: url(./assets/fonts/NotoSans-BoldItalic.eot);
   /* IE9 Compat Modes */
-  src: local("Noto Sans Bold Italic"), local("NotoSans-BoldItalic"), url(/fonts/NotoSans-BoldItalic.eot?#iefix) format("embedded-opentype"), url(/fonts/NotoSans-BoldItalic.woff2) format("woff2"), url(/fonts/NotoSans-BoldItalic.woff) format("woff"), url(/fonts/NotoSans-BoldItalic.ttf) format("truetype"), url(/fonts/NotoSans-BoldItalic.svg#NotoSans-BoldItalic) format("svg");
+  src: local("Noto Sans Bold Italic"), local("NotoSans-BoldItalic"), url(./assets/fonts/NotoSans-BoldItalic.eot?#iefix) format("embedded-opentype"), url(./assets/fonts/NotoSans-BoldItalic.woff2) format("woff2"), url(./assets/fonts/NotoSans-BoldItalic.woff) format("woff"), url(./assets/fonts/NotoSans-BoldItalic.ttf) format("truetype"), url(./assets/fonts/NotoSans-BoldItalic.svg#NotoSans-BoldItalic) format("svg");
   /* Legacy iOS */
   font-style: italic;
   font-weight: bold;
@@ -9329,9 +9330,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "MinecraftFive";
-  src: url(/fonts/MinecraftFive-Bold.eot);
+  src: url(./assets/fonts/MinecraftFive-Bold.eot);
   /* IE9 Compat Modes */
-  src: url(/fonts/MinecraftFive-Bold.eot?#iefix) format("embedded-opentype"), url(/fonts/MinecraftFive-Bold.woff) format("woff"), url(/fonts/MinecraftFive-Bold.ttf) format("truetype"), url(/fonts/MinecraftFive-Bold.svg#MinecraftFive-Bold) format("svg");
+  src: url(./assets/fonts/MinecraftFive-Bold.eot?#iefix) format("embedded-opentype"), url(./assets/fonts/MinecraftFive-Bold.woff) format("woff"), url(./assets/fonts/MinecraftFive-Bold.ttf) format("truetype"), url(./assets/fonts/MinecraftFive-Bold.svg#MinecraftFive-Bold) format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: bold;
@@ -9339,9 +9340,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "MinecraftFive";
-  src: url(/fonts/MinecraftFive-Regular.eot);
+  src: url(./assets/fonts/MinecraftFive-Regular.eot);
   /* IE9 Compat Modes */
-  src: url(/fonts/MinecraftFive-Regular.eot?#iefix) format("embedded-opentype"), url(/fonts/MinecraftFive-Regular.ttf) format("truetype"), url(/fonts/MinecraftFive-Regular.woff) format("woff"), url(/fonts/MinecraftFive-Regular.svg#MinecraftFive-Regular) format("svg");
+  src: url(./assets/fonts/MinecraftFive-Regular.eot?#iefix) format("embedded-opentype"), url(./assets/fonts/MinecraftFive-Regular.ttf) format("truetype"), url(./assets/fonts/MinecraftFive-Regular.woff) format("woff"), url(./assets/fonts/MinecraftFive-Regular.svg#MinecraftFive-Regular) format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: normal;
@@ -9349,9 +9350,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "MinecraftSeven";
-  src: url(/fonts/MinecraftSeven.eot);
+  src: url(./assets/fonts/MinecraftSeven.eot);
   /* IE9 Compat Modes */
-  src: url(/fonts/MinecraftSeven.eot?#iefix) format("embedded-opentype"), url(/fonts/MinecraftSeven.woff) format("woff"), url(/fonts/MinecraftSeven.ttf) format("truetype"), url(/fonts/MinecraftSeven.svg#MinecraftSeven) format("svg");
+  src: url(./assets/fonts/MinecraftSeven.eot?#iefix) format("embedded-opentype"), url(./assets/fonts/MinecraftSeven.woff) format("woff"), url(./assets/fonts/MinecraftSeven.ttf) format("truetype"), url(./assets/fonts/MinecraftSeven.svg#MinecraftSeven) format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: normal;
@@ -9359,9 +9360,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "MinecraftTen";
-  src: url(/fonts/MinecraftTen.eot);
+  src: url(./assets/fonts/MinecraftTen.eot);
   /* IE9 Compat Modes */
-  src: url(/fonts/MinecraftTen.eot?#iefix) format("embedded-opentype"), url(/fonts/MinecraftTen.woff) format("woff"), url(/fonts/MinecraftTen.ttf) format("truetype"), url(/fonts/MinecraftTen.svg#MinecraftTen) format("svg");
+  src: url(./assets/fonts/MinecraftTen.eot?#iefix) format("embedded-opentype"), url(./assets/fonts/MinecraftTen.woff) format("woff"), url(./assets/fonts/MinecraftTen.ttf) format("truetype"), url(./assets/fonts/MinecraftTen.svg#MinecraftTen) format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: normal;
