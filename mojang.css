@@ -9301,9 +9301,9 @@ a.text-senary:hover, a.text-senary:focus {
 
 @font-face {
   font-family: "Noto Sans";
-  src: url(/assets/fonts/NotoSans-Regular.eot);
+  src: url(assets/fonts/NotoSans-Regular.eot);
   /* IE9 Compat Modes */
-  src: local("Noto Sans"), local("NotoSans"), url(/assets/fonts/NotoSans-Regular.eot?#iefix) format("embedded-opentype"), url(/assets/fonts/NotoSans-Regular.woff2) format("woff2"), url(/assets/fonts/NotoSans-Regular.woff) format("woff"), url(/assets/fonts/NotoSans-Regular.ttf) format("truetype"), url(/assets/fonts/NotoSans-Regular.svg#NotoSans-Regular) format("svg");
+  src: local("Noto Sans"), local("NotoSans"), url(assets/fonts/NotoSans-Regular.eot?#iefix) format("embedded-opentype"), url(assets/fonts/NotoSans-Regular.woff2) format("woff2"), url(/assets/fonts/NotoSans-Regular.woff) format("woff"), url(/assets/fonts/NotoSans-Regular.ttf) format("truetype"), url(/assets/fonts/NotoSans-Regular.svg#NotoSans-Regular) format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: normal;
@@ -9311,9 +9311,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "Noto Sans";
-  src: url(/assets/fonts/NotoSans-Bold.eot);
+  src: url(assets/fonts/NotoSans-Bold.eot);
   /* IE9 Compat Modes */
-  src: local("Noto Sans Bold"), local("NotoSans-Bold"), url(/assets/fonts/NotoSans-Bold.eot?#iefix) format("embedded-opentype"), url(/assets/fonts/NotoSans-Bold.woff2) format("woff2"), url(/assets/fonts/NotoSans-Bold.woff) format("woff"), url(/assets/fonts/NotoSans-Bold.ttf) format("truetype"), url(/assets/fonts/NotoSans-Bold.svg#NotoSans-Bold) format("svg");
+  src: local("Noto Sans Bold"), local("NotoSans-Bold"), url(assets/fonts/NotoSans-Bold.eot?#iefix) format("embedded-opentype"), url(assets/fonts/NotoSans-Bold.woff2) format("woff2"), url(/assets/fonts/NotoSans-Bold.woff) format("woff"), url(/assets/fonts/NotoSans-Bold.ttf) format("truetype"), url(/assets/fonts/NotoSans-Bold.svg#NotoSans-Bold) format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: bold;
@@ -9321,9 +9321,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "Noto Sans";
-  src: url(/assets/fonts/NotoSans-Italic.eot);
+  src: url(assets/fonts/NotoSans-Italic.eot);
   /* IE9 Compat Modes */
-  src: local("Noto Sans Italic"), local("NotoSans-Italic"), url(/assets/fonts/NotoSans-Italic.eot?#iefix) format("embedded-opentype"), url(/assets/fonts/NotoSans-Italic.woff2) format("woff2"), url(/assets/fonts/NotoSans-Italic.woff) format("woff"), url(/assets/fonts/NotoSans-Italic.ttf) format("truetype"), url(/assets/fonts/NotoSans-Italic.svg#NotoSans-Italic) format("svg");
+  src: local("Noto Sans Italic"), local("NotoSans-Italic"), url(assets/fonts/NotoSans-Italic.eot?#iefix) format("embedded-opentype"), url(assets/fonts/NotoSans-Italic.woff2) format("woff2"), url(/assets/fonts/NotoSans-Italic.woff) format("woff"), url(/assets/fonts/NotoSans-Italic.ttf) format("truetype"), url(/assets/fonts/NotoSans-Italic.svg#NotoSans-Italic) format("svg");
   /* Legacy iOS */
   font-style: italic;
   font-weight: normal;
@@ -9331,9 +9331,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "Noto Sans";
-  src: url(/assets/fonts/NotoSans-BoldItalic.eot);
+  src: url(assets/fonts/NotoSans-BoldItalic.eot);
   /* IE9 Compat Modes */
-  src: local("Noto Sans Bold Italic"), local("NotoSans-BoldItalic"), url(/assets/fonts/NotoSans-BoldItalic.eot?#iefix) format("embedded-opentype"), url(/assets/fonts/NotoSans-BoldItalic.woff2) format("woff2"), url(/assets/fonts/NotoSans-BoldItalic.woff) format("woff"), url(/assets/fonts/NotoSans-BoldItalic.ttf) format("truetype"), url(/assets/fonts/NotoSans-BoldItalic.svg#NotoSans-BoldItalic) format("svg");
+  src: local("Noto Sans Bold Italic"), local("NotoSans-BoldItalic"), url(assets/fonts/NotoSans-BoldItalic.eot?#iefix) format("embedded-opentype"), url(assets/fonts/NotoSans-BoldItalic.woff2) format("woff2"), url(/assets/fonts/NotoSans-BoldItalic.woff) format("woff"), url(/assets/fonts/NotoSans-BoldItalic.ttf) format("truetype"), url(/assets/fonts/NotoSans-BoldItalic.svg#NotoSans-BoldItalic) format("svg");
   /* Legacy iOS */
   font-style: italic;
   font-weight: bold;
@@ -9341,9 +9341,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "MinecraftFive";
-  src: url(/assets/fonts/MinecraftFive-Bold.eot);
+  src: url(assets/fonts/MinecraftFive-Bold.eot);
   /* IE9 Compat Modes */
-  src: url(/assets/fonts/MinecraftFive-Bold.eot?#iefix) format("embedded-opentype"), url(/assets/fonts/MinecraftFive-Bold.woff) format("woff"), url(/assets/fonts/MinecraftFive-Bold.ttf) format("truetype"), url(/assets/fonts/MinecraftFive-Bold.svg#MinecraftFive-Bold) format("svg");
+  src: url(assets/fonts/MinecraftFive-Bold.eot?#iefix) format("embedded-opentype"), url(assets/fonts/MinecraftFive-Bold.woff) format("woff"), url(assets/fonts/MinecraftFive-Bold.ttf) format("truetype"), url(/assets/fonts/MinecraftFive-Bold.svg#MinecraftFive-Bold) format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: bold;
@@ -9351,9 +9351,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "MinecraftFive";
-  src: url(/assets/fonts/MinecraftFive-Regular.eot);
+  src: url(assets/fonts/MinecraftFive-Regular.eot);
   /* IE9 Compat Modes */
-  src: url(/assets/fonts/MinecraftFive-Regular.eot?#iefix) format("embedded-opentype"), url(/assets/fonts/MinecraftFive-Regular.ttf) format("truetype"), url(/assets/fonts/MinecraftFive-Regular.woff) format("woff"), url(/assets/fonts/MinecraftFive-Regular.svg#MinecraftFive-Regular) format("svg");
+  src: url(assets/fonts/MinecraftFive-Regular.eot?#iefix) format("embedded-opentype"), url(assets/fonts/MinecraftFive-Regular.ttf) format("truetype"), url(assets/fonts/MinecraftFive-Regular.woff) format("woff"), url(/assets/fonts/MinecraftFive-Regular.svg#MinecraftFive-Regular) format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: normal;
@@ -9361,9 +9361,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "MinecraftSeven";
-  src: url(/assets/fonts/MinecraftSeven.eot);
+  src: url(assets/fonts/MinecraftSeven.eot);
   /* IE9 Compat Modes */
-  src: url(/assets/fonts/MinecraftSeven.eot?#iefix) format("embedded-opentype"), url(/assets/fonts/MinecraftSeven.woff) format("woff"), url(/assets/fonts/MinecraftSeven.ttf) format("truetype"), url(/assets/fonts/MinecraftSeven.svg#MinecraftSeven) format("svg");
+  src: url(assets/fonts/MinecraftSeven.eot?#iefix) format("embedded-opentype"), url(assets/fonts/MinecraftSeven.woff) format("woff"), url(assets/fonts/MinecraftSeven.ttf) format("truetype"), url(/assets/fonts/MinecraftSeven.svg#MinecraftSeven) format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: normal;
@@ -9371,9 +9371,9 @@ a.text-senary:hover, a.text-senary:focus {
 }
 @font-face {
   font-family: "MinecraftTen";
-  src: url(/assets/fonts/MinecraftTen.eot);
+  src: url(assets/fonts/MinecraftTen.eot);
   /* IE9 Compat Modes */
-  src: url(/assets/fonts/MinecraftTen.eot?#iefix) format("embedded-opentype"), url(/assets/fonts/MinecraftTen.woff) format("woff"), url(/assets/fonts/MinecraftTen.ttf) format("truetype"), url(/assets/fonts/MinecraftTen.svg#MinecraftTen) format("svg");
+  src: url(assets/fonts/MinecraftTen.eot?#iefix) format("embedded-opentype"), url(assets/fonts/MinecraftTen.woff) format("woff"), url(assets/fonts/MinecraftTen.ttf) format("truetype"), url(/assets/fonts/MinecraftTen.svg#MinecraftTen) format("svg");
   /* Legacy iOS */
   font-style: normal;
   font-weight: normal;
@@ -10014,20 +10014,20 @@ button.bg-dungeons-tertiary:focus {
 }
 
 .bg-wool-light {
-  background-image: url(/assets/img/bg-wool-white.png);
+  background-image: url(assets/img/bg-wool-white.png);
   background-color: #fff;
 }
 
 .bg-wool-dark {
-  background-image: url(/assets/img/bg-wool-dark.png);
+  background-image: url(assets/img/bg-wool-dark.png);
 }
 
 .bg-grass {
-  background-image: url(/assets/img/bg-grass.png);
+  background-image: url(assets/img/bg-grass.png);
 }
 
 .bg-snow {
-  background-image: url(/assets/img/bg-snow.png);
+  background-image: url(assets/img/bg-snow.png);
 }
 
 .bg-wool-dark,
@@ -11057,7 +11057,7 @@ button.bg-dungeons-tertiary:focus {
 }
 .border-dungeons {
   border: 30px solid rgba(255, 255, 255, 0.25);
-  border-image: url(/assets/img/border-dungeons-25.png) 30;
+  border-image: url(assets/img/border-dungeons-25.png) 30;
 }
 
 .border-width-1 {
@@ -11634,7 +11634,7 @@ h6 .svg-icon {
 .end-with-block p:last-child::after,
 .end-with-block h1:last-child::after {
   content: "";
-  background: url(/assets/svg/icons/what-block.svg) no-repeat;
+  background: url(assets/svg/icons/what-block.svg) no-repeat;
   display: inline-block;
   margin-left: 0.5rem;
   margin-bottom: 2px;
@@ -12346,12 +12346,12 @@ button:hover > .grow {
   padding: 20px;
 }
 .attributed-quote::before {
-  background-image: url(/assets/svg/icons/pixel-begin-quote.svg);
+  background-image: url(assets/svg/icons/pixel-begin-quote.svg);
   top: -19px;
   left: -19px;
 }
 .attributed-quote::after {
-  background-image: url(/assets/svg/icons/pixel-end-quote.svg);
+  background-image: url(assets/svg/icons/pixel-end-quote.svg);
   right: -19px;
   bottom: -19px;
 }
@@ -12447,7 +12447,7 @@ button:hover > .grow {
   margin: 0.7rem;
   width: 95px;
   height: 95px;
-  background-image: url(/assets/svg/shapes/square-like.svg);
+  background-image: url(assets/svg/shapes/square-like.svg);
   color: #000;
   background-size: cover;
   display: flex;
@@ -12478,7 +12478,7 @@ button:hover > .grow {
 }
 
 .countdown--black .figures {
-  background-image: url(/assets/svg/shapes/square-like-black.svg);
+  background-image: url(assets/svg/shapes/square-like-black.svg);
 }
 
 .countdown--small .figures {
